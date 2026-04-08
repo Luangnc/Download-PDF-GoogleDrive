@@ -46,3 +46,5 @@ import shutil
 shutil.copy("/content/arquivo.pdf", "/content/drive/MyDrive/arquivo.pdf")
 ```
 Depois só verificar o arquivo na sua pasta do google drive.
+___
+© 2026 Luan G. N. Corrêa
